@@ -7,3 +7,4 @@ Check out all working in [codepen](https://codepen.io/hjdesigner/).
 02 - Clock
 03 - CSS Variables with JS
 04 - Array Cardio Day 01
+05 - Flex Panel Gallery
