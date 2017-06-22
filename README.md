@@ -10,3 +10,4 @@ Check out all working in [codepen](https://codepen.io/hjdesigner/).
 - 05 - Flex Panel Gallery
 - 06 - Type Ahead
 - 07 - Array cardio 02
+- 08 - Fun With HTML5 Canvas
