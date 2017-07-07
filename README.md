@@ -12,3 +12,5 @@ Check out all working in [codepen](https://codepen.io/hjdesigner/).
 - 07 - Array cardio 02
 - 08 - Fun With HTML5 Canvas
 - 09 - Dev Tools Domination
+- 10 - Hold Shift to Check Multiple Checkboxes
+- 11 - Custom Video Play
