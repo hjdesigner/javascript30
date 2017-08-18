@@ -15,3 +15,4 @@ Check out all working in [codepen](https://codepen.io/hjdesigner/).
 - 10 - Hold Shift to Check Multiple Checkboxes
 - 11 - Custom Video Play
 - 12 - Key Squence Dtection (KONAMI CORE)
+- 13 - Slide in on scroll
